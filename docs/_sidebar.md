@@ -2,7 +2,7 @@
 
 * [Home](pages/home.md)
 * [CV](pages/cv.md)
-* [PS](pages/home.md)
+* [PS](pages/ps.md)
 * [Publish](pages/publish.md)
 * [Codes](pages/codes.md)
 * [Research](pages/research.md)
