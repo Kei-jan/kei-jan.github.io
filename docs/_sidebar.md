@@ -1,4 +1,4 @@
-<!-- pages/_sidebar.md -->
+<!-- docs/_sidebar.md -->
 
 * [Home](pages/home.md)
 * [CV](pages/cv.md)
